@@ -3,11 +3,11 @@ A simple chat server and a client to communicate with the former. Implemented in
 
 ## Example
 
-java ChatServer 8000
-To run the Server listening in the TCP port 8000.
+<b> java ChatServer 8000 </b> <br>
+To run the Server listening on port 8000.
 
-java ChatClient localhost 8000
-To run the Client, connecting it to the server's DNS (eg: localhost) and the TCP port number where the server is listening (8000).
+<b>java ChatClient localhost 8000 </b> </br>
+To run the Client, connecting it to the server's DNS (eg: localhost) and the TCP port number where the server is listening on (8000).
 
 ## Commands
 

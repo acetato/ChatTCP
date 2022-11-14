@@ -14,14 +14,14 @@ Run the Client connecting it to wherever the server is running.
 > <b> /nick [nickname] </b> <br>
 Pick a new nickname
 
-<b>/join room </b> <br>
+> <b>/join room </b> <br>
 Enters the chatroom
 
-<b>/leave </b> <br>
+> <b>/leave </b> <br>
 Leaves the chatroom
 
-<b>/bye </b> <br>
+> <b>/bye </b> <br>
 Leaves the application
 
-<b>/priv [someone] message </b> <br>
+> <b>/priv [someone] message </b> <br>
 Sends a private message to [someone]

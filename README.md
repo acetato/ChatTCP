@@ -7,7 +7,7 @@ Chat server and client implemented in Java.
 To run the Server listening on port 8000.
 
 <b>java ChatClient localhost 8000 </b> </br>
-Run the Client connecting it to wherever the server is running.
+Run the Client connecting it to wherever the server is running (eg., port 8000 on localhost)
 
 ## Commands
 

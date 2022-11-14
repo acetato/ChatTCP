@@ -1,5 +1,5 @@
 # ChatTCP
-A simple chat server and a client to communicate with the former. Implemented in Java.
+Chat server and a client implemented in Java.
 
 ## Example
 

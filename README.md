@@ -11,8 +11,8 @@ Run the Client connecting it to wherever the server is running.
 
 ## Commands
 
-<b> /nick [nickname] </b> <br>
-Chose a new nickname
+> <b> /nick [nickname] </b> <br>
+Pick a new nickname
 
 <b>/join room </b> <br>
 Enters the chatroom

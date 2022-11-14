@@ -7,12 +7,12 @@ Chat server and a client implemented in Java.
 To run the Server listening on port 8000.
 
 <b>java ChatClient localhost 8000 </b> </br>
-To run the Client, connecting it to the server's DNS (eg: localhost) and the TCP port number where the server is listening on (8000).
+Run the Client connecting it to wherever the server is running.
 
 ## Commands
 
-<b> /nick name </b> <br>
-Chooses a new nickname
+<b> /nick [nickname] </b> <br>
+Chose a new nickname
 
 <b>/join room </b> <br>
 Enters the chatroom
@@ -23,5 +23,5 @@ Leaves the chatroom
 <b>/bye </b> <br>
 Leaves the application
 
-<b>/priv name message </b> <br>
-Sends a private message to name
+<b>/priv [someone] message </b> <br>
+Sends a private message to [someone]
